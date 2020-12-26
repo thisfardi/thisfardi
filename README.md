@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **thisfardi/thisfardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,7 +21,7 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" />
 
-### Hi there, my name is Rakka Pratama 👋
+### Hi there, my name is Muhammad Fardi 👋
 ### I'm a Computer Science and Engineering Student
 
 - 🔭 I’m currently working on Web development technologies
