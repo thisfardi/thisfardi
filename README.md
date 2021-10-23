@@ -45,6 +45,7 @@ Here are some ideas to get you started:
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/N1ght420/count.svg" />
 </p>
+
 <details>
   <summary><b>My Github Stats</b></summary>
   <img alt="thisfardi github stats" src="https://github-readme-stats.vercel.app/api?username=thisfardi&count_private=true&hide=issues&show_icons=true&hide_border=true&include_all_commits=true&line_height=24&theme=radical"/>
@@ -92,3 +93,39 @@ Here are some ideas to get you started:
 ### Show some ❤️  by starring ⭐️ some of the repositories!
 
 </div>
+
+```javascript
+const name = 'This Fardi';
+document.write("Hello, Everybody");
+
+var status = 
+{ 
+  learning : [JavaScript,Python,Blockchain, HTML, JAVA, CSS],
+  interests: [Research, Open Source Contribution, Business Analytics]
+}
+
+const skills = 
+{
+  languages :[Svelte, Bash, Aurelia, PHP, JavaScript, Julia, Rust, Git, Markdown, VB],
+  
+  ide       :[Vs Code, GitHub Codespace, GitPod, Netbeansm Android Studio],
+  
+  frameworks:[Bootstrap, Sharepoint Framework, NodeJs],
+  
+  platforms :[Google Cloud Platform, Buildkite, Heroku, Netlify, Firebase, Cloudflare],
+  
+  cicd      :[Github Workflows, Jenkins, Gerrit Code Review],
+
+  softwares :[Microsoft PowerBi, Microsoft Access, Rapid Miner, Vegas Pro]
+}
+
+Developer dev = new Developer(thisfardi);
+
+while(dev.isCoding() && dev.isStuck())  
+{
+  dev.openBrowser();
+  dev.openStackOverFlow();
+  dev.pasteCodeInIde();
+  dev.feelProfessional();
+}
+```
