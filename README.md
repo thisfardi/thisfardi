@@ -38,7 +38,6 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
-
 <!--[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3k5y2ces5jd1d2w0g08kct5ri&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=3k5y2ces5jd1d2w0g08kct5ri&redirect=true)-->
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mh8vqpv844kthenz2y766woot&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=mh8vqpv844kthenz2y766woot&redirect=true)
 <p align="center"> 
