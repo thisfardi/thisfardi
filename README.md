@@ -35,15 +35,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on your Open Source Project
 - ⚡ Fun fact: It's not healthy, but i love chocolate so much
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
 <!--[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3k5y2ces5jd1d2w0g08kct5ri&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=3k5y2ces5jd1d2w0g08kct5ri&redirect=true)-->
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mh8vqpv844kthenz2y766woot&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=mh8vqpv844kthenz2y766woot&redirect=true)
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/N1ght420/count.svg" />
-</p>
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 <details>
   <summary><b>My Github Stats</b></summary>
@@ -62,6 +58,10 @@ Here are some ideas to get you started:
     <a href="https://www.youtube.com/c/ucz44r-0tngtx0bjmmejeb4q" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucz44r-0tngtx0bjmmejeb4q" height="30" width="40" /></a>
   </p>
 </details>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/N1ght420/count.svg" />
+</p>
 <hr>
 <h2 align="center">👨🏽‍💻 Languages & Frameworks & Tools 👨🏽‍💻</h2>
 <br>
